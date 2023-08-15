@@ -1,16 +1,25 @@
-### Hi there 👋
+👋  Hi, I’m **Darshit_Gohel**
 
-<!--
-**DarshitDoesAnalysis/DarshitDoesAnalysis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+👀  I apply data to create business solutions for companies and organizations.
 
-Here are some ideas to get you started:
+🌱  I'm a **Data_Analyst**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💞️  I am seeking collaboration opportunities for projects involving 
+          **PYHTON**, **SQL**, **EXCEL**, **LANGUAGE R** **&** **POWERBI**. 
+
+🌱  This GitHub repository features a compilation of my projects and resources, highlighting my expertise and passion for data analysis. 
+
+👀  Let's collaborate to transform data into knowledge!
+
+💞️  "Data is not just a collection of numbers; it's a story waiting to be told." - Unknown
+
+
+
+
+# 👋 Hi there, I'm Darshit Gohel
+
+
+<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=GohelTechWhiz&show_icons=true&theme=radical"/>
+
+<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GohelTechWhiz&layout=compact"/>
+
