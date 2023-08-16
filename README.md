@@ -14,12 +14,13 @@
 
 ## 🛠 Skills
 
-1. Microsoft_Excel
-2. My_SQL
-3. Python
-4. Statistics
-5. Language_R
-6. Microsoft_power_BI
+1.	Microsoft_Excel
+2.	My_SQL
+3.	Python  
+4.	Language_R
+5.	Microsoft_power_BI
+
+
 
 
 <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=DarshitDoesAnalysis&show_icons=true&theme=radical"/>
