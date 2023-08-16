@@ -4,7 +4,7 @@
 🌱  I'm a **Data_Analyst**
 
 💞️  I am seeking collaboration opportunities for projects involving 
-          **PYHTON**, **SQL**, **EXCEL**, **LANGUAGE R** **&** **POWERBI**. 
+          **PYHTON**, **MY_SQL**, **EXCEL**, **LANGUAGE R** **&** **POWERBI**. 
 
 🌱  This GitHub repository features a compilation of my projects and resources, highlighting my expertise and passion for data analysis. 
 
