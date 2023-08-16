@@ -1,6 +1,5 @@
-👋  Hi, I’m **Darshit_Gohel**
 
-👀  I apply data to create business solutions for companies and organizations.
+# 🌸 𝓗𝓮𝓵𝓵𝓸, 🍬 𝓘'𝓶 𝓓𝓪𝓻𝓼𝓱𝓲𝓽
 
 🌱  I'm a **Data_Analyst**
 
@@ -13,10 +12,15 @@
 
 💞️  "Data is not just a collection of numbers; it's a story waiting to be told." - Unknown
 
+## 🛠 Skills
 
+1. Microsoft_Excel
+2. My_SQL
+3. Python
+4. Statistics
+5. Language_R
+6. Microsoft_power_BI
 
-
-# 👋 Hi there, I'm Darshit Gohel
 
 <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=DarshitDoesAnalysis&show_icons=true&theme=radical"/>
 
