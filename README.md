@@ -1,5 +1,5 @@
 ![logo](https://github.com/DarshitDoesAnalysis/DarshitDoesAnalysis/blob/main/wallpaperflare-cropped.jpg)
-# 🌸 𝓗𝓮𝓵𝓵𝓸, 🍬 𝓘'𝓶 𝓓𝓪𝓻𝓼𝓱𝓲𝓽
+# 👋 𝐻𝑒𝑙𝑙𝑜 𝑡ℎ𝑒𝑟𝑒, 𝐼'𝑚 𝐷𝑎𝑟𝑠ℎ𝑖𝑡
 
 🌱  I'm a **Data_Analyst**
 
@@ -22,8 +22,7 @@
 
 
 
-
-<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=DarshitDoesAnalysis&show_icons=true&theme=radical"/>
+<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=DarshitDoesAnalysis&show_icons=true&theme=transparent"/>
 
 <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DarshitDoesAnalysis&layout=compact"/>
 
