@@ -18,7 +18,7 @@
 
 # 👋 Hi there, I'm Darshit Gohel
 
-<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=GohelTechWhiz&show_icons=true&theme=radical"/>
+<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=DarshitDoesAnalysis&show_icons=true&theme=radical"/>
 
-<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GohelTechWhiz&layout=compact"/>
+<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DarshitDoesAnalysis&layout=compact"/>
 
