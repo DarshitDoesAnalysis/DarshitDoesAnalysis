@@ -1,5 +1,5 @@
 ![logo](https://github.com/DarshitDoesAnalysis/DarshitDoesAnalysis/blob/d98b4713cebe950c9095597bf9990b3057858788/Final%202.png)
-# 👋 𝐻𝑒𝑙𝑙𝑜 𝑡ℎ𝑒𝑟𝑒, 𝐼'𝑚 𝐷𝑎𝑟𝑠ℎ𝑖𝑡
+# 👋 𝐻𝑒𝑙𝑙𝑜 𝑡ℎ𝑒𝑟𝑒, 𝐼'𝑚 𝐷𝑎𝑟𝑠ℎ𝑖𝑡.
 
 🌱  I'm a **Data_Analyst**
 
