@@ -1,4 +1,4 @@
-![logo](https://github.com/DarshitDoesAnalysis/DarshitDoesAnalysis/blob/main/wallpaperflare-cropped.jpg)
+![logo](https://drive.google.com/file/d/12Qs93D18VKS8cN-PdBhI3mkezJ69gr5y/view?usp=sharing)
 # 👋 𝐻𝑒𝑙𝑙𝑜 𝑡ℎ𝑒𝑟𝑒, 𝐼'𝑚 𝐷𝑎𝑟𝑠ℎ𝑖𝑡
 
 🌱  I'm a **Data_Analyst**
