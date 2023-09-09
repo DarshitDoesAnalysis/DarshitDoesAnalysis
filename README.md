@@ -1,4 +1,4 @@
-![logo](github.com/DarshitDoesAnalysis/DarshitDoesAnalysis/blob/main/wallpaperflare-cropped.jpg)
+![logo](https://github.com/DarshitDoesAnalysis/DarshitDoesAnalysis/blob/main/wallpaperflare-cropped.jpg)
 # 👋 𝐻𝑒𝑙𝑙𝑜 𝑡ℎ𝑒𝑟𝑒, 𝐼'𝑚 𝐷𝑎𝑟𝑠ℎ𝑖𝑡
 
 🌱  I'm a **Data_Analyst**
